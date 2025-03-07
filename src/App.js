@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I have been updated through Github Actions CI/CD Pipeline
+          I have been updated through GitHub Actions CI/CD Pipeline
         </a>
       </header>
     </div>
