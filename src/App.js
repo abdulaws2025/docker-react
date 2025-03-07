@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React And I was changed 
+          I have been updated through Github Actions CI/CD Pipeline
         </a>
       </header>
     </div>
